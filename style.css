@@ -1,0 +1,131 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  padding: 20px 110px;
+}
+.header-div1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-1 {
+  width: 78px;
+  height: 40px;
+  margin-right: 20px;
+}
+.input-search {
+  display: flex;
+
+  width: 1350px;
+  height: 48px;
+  margin-top: 104px;
+  border: none;
+  font-size: 17px;
+  border-bottom: 1px solid;
+}
+.restorant {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  font-weight: 500;
+}
+.restorant1 {
+  padding-top: 85px;
+}
+#big-section-div {
+  display: flex;
+  gap: 5cm;
+  justify-content: center;
+}
+#big-section-div2 {
+  display: flex;
+  gap: 5cm;
+  justify-content: center;
+  padding-top: 2cm;
+}
+#big-section-div3 {
+  display: flex;
+  gap: 5cm;
+  justify-content: center;
+  padding-top: 2cm;
+}
+footer {
+  background-color: rgba(59, 59, 59, 1);
+  width: 1300px;
+  height: 600px;
+}
+.lazer {
+  display: flex;
+  margin-left: 2.5cm;
+  margin-top: 1.5cm;
+  border-bottom: 1px solid;
+  width: 1100px;
+  color: rgba(255, 255, 255, 1);
+}
+.footer-image1 {
+  display: flex;
+  padding-top: 1.5cm;
+  padding-left: 2cm;
+}
+.footer-button {
+  display: flex;
+  width: 227px;
+  height: 40px;
+  justify-content: space-around;
+  align-items: center;
+  border: none;
+  border-radius: 3px;
+  font-size: 17px;
+  color: white;
+}
+#footer-big-div2 {
+  display: flex;
+  flex-direction: column;
+  gap: 1cm;
+  margin-left: 2cm;
+  margin-top: 1cm;
+}
+.footer-div2 {
+  color: white;
+  margin-bottom: 1.5cm;
+}
+.footer-div3 {
+  color: white;
+}
+.footeribigg-divv {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 10cm;
+  align-items: center;
+  font-size: 17px;
+}
+.lazer2 {
+  display: flex;
+  margin-left: 2.5cm;
+  margin-top: 1.5cm;
+  border-bottom: 1px solid;
+  width: 1100px;
+  color: rgba(255, 255, 255, 1);
+}
+.footer-end-logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5cm;
+  gap: 2cm;
+}
+.lazer3 {
+  display: flex;
+  margin-left: 2.5cm;
+  margin-top: 1.5cm;
+  border-bottom: 1px solid;
+  width: 1100px;
+  color: rgba(255, 255, 255, 1);
+}
+.lazer-bottom {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  margin-top: 15px;
+}
